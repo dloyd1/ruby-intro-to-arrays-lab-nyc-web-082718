@@ -1,5 +1,5 @@
 def instaniate_new_array()
-	Array = []
+	Array[]
 end
 
 def array_with_two_elements()
